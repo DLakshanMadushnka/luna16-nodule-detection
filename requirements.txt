@@ -1,1 +1,9 @@
-
+SimpleITK==2.5.0
+numpy==1.26.4
+tensorflow==2.15.0
+pandas==2.2.2
+scikit-learn==1.6.1
+opencv-python==4.11.0.86
+matplotlib==3.10.0
+seaborn==0.13.2
+tqdm  # For progress bars
